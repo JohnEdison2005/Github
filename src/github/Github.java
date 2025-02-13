@@ -15,6 +15,8 @@ public class Github {
      */
     public static void main(String[] args) {
 
-System.out.println("Inicio de pr·ctica 4.3: Github + Netbeans");   
+System.out.println("Inicio de pr√°ctica 4.3: Github + Netbeans");   
+
+        System.out.println("Cambios desde Github");
     }
 }
